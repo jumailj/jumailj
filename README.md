@@ -23,7 +23,7 @@
 <br />
 
 ## Languages and Tools I Use:
-### <u>Languages:</u> 
+### Languages:
 <p>
  <img fill="#f5ca20" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b><br>              
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br>
