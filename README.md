@@ -26,11 +26,11 @@
 ### Languages: 
 
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b>C</b><br>              
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />C++(favourite) <br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" />C#<br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />Python<br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />JaveScript<br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />Java<br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b>C++(favourite)</b> <br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b>C#</b><br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b>Python</b><br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b>JaveScript</b><br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" /><b>Java</b><br>
 
 
 ### Tools:
