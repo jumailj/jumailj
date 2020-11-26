@@ -27,7 +27,7 @@
 - C                <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
 - C++ (favourite) <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />
 - C#            <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" />
-- Python      <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />
+- Python      <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
 - JaveScript  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
 - Java       <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
 
