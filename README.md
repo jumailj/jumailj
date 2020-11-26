@@ -10,8 +10,6 @@
 - 📖 Teach Coding To Others.
 - 🥅 2021 Goals: A 2D game engine,...
 
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
