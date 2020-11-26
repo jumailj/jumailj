@@ -27,17 +27,17 @@
 
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />C<br>              
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />C++(favourite) <br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" />C#<br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />Python<br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />JaveScript<br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />Java<br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" />C#<br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />Python<br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />JaveScript<br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />Java<br>
 
 
 ### Tools
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /> - Visual Studio <br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /> - Visual Studio Code <br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> - Git   <br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /> - GitHub <br>   
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /> - Visual Studio <br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /> - Visual Studio Code <br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> - Git   <br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /> - GitHub <br>   
 <br />
 
 ---
