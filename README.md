@@ -24,7 +24,7 @@
 
 ## Languages and Tools I Use:
 ### Languages: 
-- C <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/simpleicons.svg" />
+- C <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" />
 - C++ (favourite)
 - C#
 - Python
