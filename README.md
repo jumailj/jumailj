@@ -23,7 +23,7 @@
 ## Languages and Tools I Use:
 ### Languages:
 <p>
- <img fill="#f5ca20" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b><br>              
+ <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b><br>              
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i>C#</i></b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b><i>Python</i></b><br>
@@ -33,7 +33,7 @@
 
 ### Tools:
 <p>
- <img align="aign-center" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b>Visual Studio</b><br>
+ <img vertical-align="baseline" align="aign-center" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b>Visual Studio</b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /><b>Visual Studio Code </b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> <b>Git</b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /><b>GitHub</b><br>
