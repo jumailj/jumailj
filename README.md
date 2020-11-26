@@ -24,12 +24,12 @@
 
 ## Languages and Tools I Use:
 ### Languages: 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /> C                
- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /> C++ (favourite)
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /> C#            
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /> Python      
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> JaveScript  
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />Java       
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />  C   <br>              
+ <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />  C++ (favourite) <br>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" />  C#            <br>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />  Python      <br>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />  JaveScript  <br>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" /> Java       <br>
 
 
 ### Tools
