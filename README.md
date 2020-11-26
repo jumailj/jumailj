@@ -24,7 +24,7 @@
 
 ## Languages and Tools I Use:
 ### Languages: 
-- C
+- C https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 - C++ (favourite)
 - C#
 - Python
