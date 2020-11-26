@@ -25,13 +25,7 @@
 ## Languages and Tools I Use:
 ### Languages: 
 
-<styyle>
-  .c-logo path{
-  fille:#ffcd03;
-  }
-</style>
-
-- <img class ="c-logo" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b>C</b><br>              
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b>C</b><br>              
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b>C++(favourite)</b> <br>
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b>C#</b><br>
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b>Python</b><br>
