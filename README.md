@@ -25,12 +25,12 @@
 ## Languages and Tools I Use:
 ### Languages: 
 
-- <img fill="#f5ca20" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b>C</b><br>              
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b>C++(favourite)</b> <br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b>C#</b><br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b>Python</b><br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b>JaveScript</b><br>
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" /><b>Java</b><br>
+- <img fill="#f5ca20" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b><br>              
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i>C#</i></b><br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b><i>Python</i></b><br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b><i>JaveScript</i></b><br>
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" /><b><i>Java</i></b><br>
 
 
 ### Tools:
