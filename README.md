@@ -25,7 +25,7 @@
 ## Languages and Tools I Use:
 ### Languages: 
 
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />C<br>              
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b>C<b><br>              
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />C++(favourite) <br>
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" />C#<br>
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />Python<br>
