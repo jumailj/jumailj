@@ -33,7 +33,7 @@
 
 ### Tools:
 <p>
- <img vertical-align="50px" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b>Visual Studio</b><br>
+ <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b>Visual Studio</b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /><b>Visual Studio Code </b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> <b>Git</b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /><b>GitHub</b><br>
