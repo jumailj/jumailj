@@ -33,10 +33,10 @@
 
 
 ### Tools
-- Visual Studio <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" />
+- Visual Studio      <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" />
 - Visual Studio Code <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
-- Git
-- GitHub
+- Git                <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
+- GitHub             <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
 <br />
 
 ---
