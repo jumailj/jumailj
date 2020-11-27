@@ -44,7 +44,7 @@
    <tr>   
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b><i>Python</i></b><br> </td>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /><b>GitHub</b><br> </td>
-     <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unity.svg" /><b>Unity</b><br> </td>
+     <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unity.svg" /><b>Unity(use rarely)</b><br> </td>
    </tr>
    <tr>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b><i>JaveScript</i></b><br>
