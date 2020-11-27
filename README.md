@@ -21,9 +21,9 @@
 
 <table>
   <tr>
-      <th> <strong>Languages</strong>  </th>
-      <th> <strong>Tools</strong>  </th>
-      <th> <strong>Softwares</strong>  </th>
+      <th> <strong>Languages</strong>&nbsp;&nbsp;  </th>
+      <th> <strong>Tools</strong> &nbsp;&nbsp; </th>
+      <th> <strong>Softwares</strong> &nbsp;&nbsp; </th>
   </tr>
     <tr>
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b> C </b> </td>
