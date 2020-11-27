@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Jumail786?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJumail786&screen_name=Jumail786)
 
-## I'm a Student🎓, Developer🔧, Tech Enthusiast💻, Autodidact🔎
+## <em> I'm a Student🎓, Developer🔧, Tech Enthusiast💻, Autodidact🔎 </em>
 
 - 🎯 <strong><em>Love to learn about programming & related things.!</em></strong>
 - ⌨ <strong><em>C++ is my favourite Programming Language.<em></strong>
