@@ -1,7 +1,6 @@
 ### Hi there, I'm Jumail J 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Jumail786?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJumail786&screen_name=Jumail786)
-<br>
 ### <i><b>Connect with me:</b></i>
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
