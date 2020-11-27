@@ -23,6 +23,7 @@
       <th> <strong>Tools</strong> </th>
       <th> <strong>Softwares</strong> </th>
       <th> <strong>Os </strong> </th>
+      <th> <strong>Hobbies </strong> </th>
   </tr>
     <tr>
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b> C </b> </td>
