@@ -21,11 +21,12 @@
 
 <table>
   <tr>
-   <th> Languages  </th>
-   <th> Tools </th>
+       <th> Languages  </th>
+       <th> Tools </th>
   </tr>
   <tr>
-  <th>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b><br>   </th>
+      <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b><br>   </td>
+      <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br> </td>
   </tr>
 </table>
 
@@ -33,7 +34,7 @@
 ### Languages:
 <p>
            
- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br>
+ 
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i>C#</i></b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b><i>Python</i></b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b><i>JaveScript</i></b><br>
