@@ -21,8 +21,8 @@
 
 <table>
   <tr>
-       <th> Languages  </th>
-       <th> Tools </th>
+    <th> <h3> Languages  </h3> </th>
+    <th> <h3> Tools </h3> </th>
   </tr>
     <tr>
       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b><br>   </td>
