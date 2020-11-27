@@ -30,13 +30,14 @@
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b> Visual Studio</b>   </td>
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /> <b> Photoshop </b>   </td>
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/windows.svg" /><b> Windows(main) </b> </td>
-      <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/udemy.svg" /><b> Learning </b> </td>
+      <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/udemy.svg" /><b> Learning New Things </b> </td>
    </tr>
     <tr>
        <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b> C++(favourite) </b> <br> </td>
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /><b> Visual Studio Code </b><br> </td>
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/blender.svg" /> <b> Blender </b> <br> </td>
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/lubuntu.svg" /> <b> Linux </b> <br> </td>
+      
    </tr>
     <tr>
       <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i> C# </i></b> </td>
