@@ -53,7 +53,7 @@
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /><b> GitHub </b> </td>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unity.svg" /><b> Unity(use rarely)</b> </td>
      <td> </td>
-     <td> </td>
+     <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/arduino.svg" /><b> Electornics </b> </td>
    </tr>
    <tr>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b> JaveScript </b> </td>
