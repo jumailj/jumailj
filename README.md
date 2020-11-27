@@ -34,12 +34,11 @@
        <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br> </td>
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /><b>Visual Studio Code </b><br> </td>
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/blender.svg" /> <b> blender </b> <br> </td>
-    </tr>
+   </tr>
     <tr>
       <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i>C#</i></b><br> </td>
       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> <b>Git</b><br> </td>
-      <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unrealengine.svg" /> <b>UnrealEngine</b><br> </td>
-      
+      <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unrealengine.svg" /> <b> Unreal </b> <br> </td>
     </tr>
     
    <tr>   
