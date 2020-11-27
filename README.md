@@ -18,7 +18,6 @@
 <br>
 
 ## Languages and Tools I Use:
----
 <table>
   <tr>
       <th> <strong>Languages</strong></th>
