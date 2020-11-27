@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-      <th> **Languages**  < </th>
+      <th> **Languages**  </th>
       <th> **Tools**  </th>
       <th> **Softwares**  </th>
   </tr>
