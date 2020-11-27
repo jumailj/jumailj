@@ -22,6 +22,9 @@
 <table>
   <tr>
        <th> Languages  </th>
+    <td> hello </td>
+    <td> hay </td>
+    <td> hello </td>
        <th> Tools </th>
   </tr>
   <tr>
