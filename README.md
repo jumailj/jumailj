@@ -26,9 +26,9 @@
       <th> <h4> Softwares </h4> </th>
   </tr>
     <tr>
-      <td style="text-align:center">  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b> <br>  </td>
-      <td style="text-align:center">  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b>Visual Studio</b> <br> </td>
-      <td style="text-align:center">  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /> <b> Photoshop </b> <br>  </td>
+      <td >  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b><i>C</i></b> <br>  </td>
+      <td >  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b>Visual Studio</b> <br> </td>
+      <td >  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /> <b> Photoshop </b> <br>  </td>
    </tr>
     <tr>
        <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br> </td>
