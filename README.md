@@ -22,7 +22,7 @@
 <table>
   <tr>
    <th> Languages  </th>
-   <th> Toos </th>
+   <th> Tools </th>
   </tr>
 </table>
 
