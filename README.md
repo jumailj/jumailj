@@ -4,7 +4,7 @@
 
 ## I'm a Student🎓, Developer🔧, Tech Enthusiast💻, Autodidact🔎
 
-- 🎯 <em>Love to learn about programming & related things.!</em>
+- 🎯 <strong><em>Love to learn about programming & related things.!</em></strong>
 - ⌨ <em>C++ is my favourite Programming Language.<em>
 - 🔨 <em>Building Game Engines, Desktop apps, Electronic are my hobbies.<em>
 - 📖 <em>Teach Coding To Others.<em>
