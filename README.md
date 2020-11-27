@@ -51,13 +51,21 @@
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b> Python </b> </td>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /><b> GitHub </b> </td>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unity.svg" /><b> Unity(use rarely)</b> </td>
+     <td> </td>
    </tr>
    <tr>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b> JaveScript </b> </td>
      <td>   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/arduino.svg" /><b> Arduino </b> </td>
+     <td> </td>
+     <td> </td>
+     <td> </td>
   </tr>
    <tr>
       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" /><b> Java </b> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
    </tr>
     
 </table>
