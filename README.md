@@ -22,11 +22,13 @@
       <th> <strong>Languages</strong></th>
       <th> <strong>Tools</strong> </th>
       <th> <strong>Softwares</strong> </th>
+      <th> <strong>Os </strong> </th>
   </tr>
     <tr>
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /><b> C </b> </td>
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudio.svg" /><b> Visual Studio</b>   </td>
       <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /> <b> Photoshop </b>   </td>
+      <td >   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/windows.svg" /><b> Windows(main) </b> </td>
    </tr>
     <tr>
        <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b> C++(favourite) </b> <br> </td>
