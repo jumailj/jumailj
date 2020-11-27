@@ -44,7 +44,6 @@
       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> <b> Git </b> </td>
       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unrealengine.svg" /> <b> Unreal </b> </td>
       <td> </td>
-      <td> </td>
       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/unrealengine.svg" /> <b> Unreal </b> </td>
     </tr>
     
