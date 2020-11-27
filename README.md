@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-      <th> <strong>Languages</strong>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+      <th> <strong>Languages</strong>&nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </th>
       <th> <strong>Tools</strong> &nbsp;&nbsp; </th>
       <th> <strong>Softwares</strong> &nbsp;&nbsp; </th>
   </tr>
