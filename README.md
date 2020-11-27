@@ -30,7 +30,13 @@
    </tr>
     <tr>
        <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /><b><i>C++(favourite)</i></b> <br> </td>
+       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /><b>Visual Studio Code </b><br> </td>
     </tr>
+    <tr>
+      <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i>C#</i></b><br> </td>
+      <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> <b>Git</b><br> </td>
+    </tr>
+    
 </table>
 
 
@@ -38,7 +44,7 @@
 <p>
            
  
- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i>C#</i></b><br>
+ 
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /><b><i>Python</i></b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /><b><i>JaveScript</i></b><br>
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" /><b><i>Java</i></b><br>
@@ -47,8 +53,8 @@
 ### Tools:
 <p>
  
- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /><b>Visual Studio Code </b><br>
- <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> <b>Git</b><br>
+
+
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /><b>GitHub</b><br>
  </p>
 <br />
