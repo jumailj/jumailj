@@ -37,7 +37,7 @@
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /><b> Visual Studio Code </b><br> </td>
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/blender.svg" /> <b> Blender </b> <br> </td>
        <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/lubuntu.svg" /> <b> Linux </b> <br> </td>
-      
+       <td>  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/" /> <b> Graphic Programming </b> <br> </td>
    </tr>
     <tr>
       <td> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /><b><i> C# </i></b> </td>
