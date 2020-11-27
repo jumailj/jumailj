@@ -19,7 +19,7 @@
 
 ## Languages and Tools I Use:
 
-<table style="width:25%">
+<table>
   <tr>
       <th> <h4> Languages  </h4> </th>
       <th> <h4> Tools  </h4> </th>
