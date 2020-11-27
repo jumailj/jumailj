@@ -65,7 +65,6 @@
 - [Unity Car movement Timelapse](https://www.youtube.com/watch?v=Tf6CBntYqcg)
 
 <!-- YOUTUBE:END -->
----
 
 [twitter]: https://twitter.com/Jumail786
 [youtube]: https://www.youtube.com/channel/UCdjiWUU1SLCQn52mBozbsrQ
