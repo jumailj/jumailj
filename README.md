@@ -76,7 +76,7 @@
 
 <!-- YOUTUBE:START -->
 - [8x8 Matrix Arduino](https://www.youtube.com/watch?v=efCXmKv8jbI)
-- [4x4x4 Led Cube](https://www.youtube.com/watch?v=8qO5QmD5gfM)
+- [4x4x4 Led Cube](https://www.youtube.com/watch?v=VVv4ve3t7qM)
 - [Console Tic Tae Toe](https://www.youtube.com/watch?v=gJHOZT8e2Sc)
 - [Unity Car movement Timelapse](https://www.youtube.com/watch?v=Tf6CBntYqcg)
 
